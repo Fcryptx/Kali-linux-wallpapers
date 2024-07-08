@@ -1,6 +1,6 @@
-#KALI LINUX WALLPAPERS
-#author: Fcryptx
+# KALI LINUX WALLPAPERS
+### Author: Fcryptx
 
-Most of the wallpapers of kali linux
+This repository contains a collection of wallpapers for Kali Linux.
 
-![kali-backtrack](~/Pictures/Kali-linux-wallpapers/kali-backtrack/backtrack-3-green-1920x1080.png)
+![Kali Backtrack Wallpaper](~/Pictures/Kali-linux-wallpapers/kali-backtrack/backtrack-3-green-1920x1080.png)
