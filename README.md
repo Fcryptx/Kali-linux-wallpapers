@@ -3,4 +3,4 @@
 
 Most of the wallpapers of kali linux
 
-![kali-backtrack](~/Pictures/kali-linux-wallpapers/kali-backtrack/backtrack-3-green-1920x1080.png)
+![kali-backtrack](~/Pictures/Kali-linux-wallpapers/kali-backtrack/backtrack-3-green-1920x1080.png)
